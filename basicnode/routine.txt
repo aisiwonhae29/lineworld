@@ -1,0 +1,11 @@
+1. let express = require('express')
+- bind require() into let variable
+
+1) why bind let variable?
+2) about require('~') 
+
+2. let app = express();
+
+1) what is express() and role
+2) app.set / .engine/ .use/ 
+
